@@ -1,4 +1,4 @@
-# Advanced Digital Displays - Client Web-App
+# Advanced Digital Displays - PHP Server Scripts
 
 This project was built for use in Advanced Digital Displays backend systems. Contact owner at:
 
